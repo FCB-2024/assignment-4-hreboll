@@ -5,7 +5,6 @@ import sys
 def main(x) :
 	## YOU CODE SHOULD START HERE AST THE SAME
 	## IDENTATION AS THIS COMMENT
-	x = int(input("Enter a positive prime number:"))
 	i = int(1)
 	sum1 = int(0)
 	sum2 = int(0)
