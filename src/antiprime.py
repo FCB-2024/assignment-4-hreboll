@@ -26,7 +26,7 @@ def main(x) :
 	if (sum2 < sum1):
 		res = "anti-prime"
 	else:
-		res = "no anti-prime"
+		res = "not anti-prime"
 
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
